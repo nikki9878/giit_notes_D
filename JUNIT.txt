@@ -1,0 +1,2 @@
+JUNIT
+Junit to test a method or classes or set of methods rather than deploying the entire code into the server and looking for 15th screen would be a tedious job so go with unit testing i.e Junit

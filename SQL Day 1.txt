@@ -1,0 +1,82 @@
+SQL Day 1
+Collection of related information
+    Phonebook
+    Shopping list
+    TODO list
+    Your friends
+Databases can be stored in different ways
+   On paper
+   In your mind
+   On a computer
+   Powerpoint
+   Comments section
+DBMS
+Special software program that helps users create read update  and maintain Databases
+  Handles security
+  Backups
+  Importing/ exporting Data
+  Consurrency
+  Interacts with software application
+
+CRUD - Create Read Update  Delete
+
+2 types of Databases
+
+Relational Databases (SQL)  
+Tables are relational             
+Organises into one or more tales              
+Each table has columns and rows
+A unique key identifies each rows
+
+NonRelational (No SQL)
+ General Nonrelational 
+ Key Value stores
+ Documents JSON XML 
+ GRAPHS
+ Flexible tables
+
+
+RDBMS (SQL) mysql, oracle,postgresql,mariadb
+    uses SQL Language to perform CRUD operations
+    used to define tables and structures
+
+Non Relational mongodb,dynamodb,cassandra, firebase etc 
+     JSON, XML,Graphs,KeY vAlue Hash
+     Implement their own language for performing CURD and administrative operation the Database
+
+Database Query
+    A request we make to grab a specific piece of information we want from the Database
+
+Columns- Single Attribute Vertical
+Rows- Individual Entry Horizontal
+
+primary key- Attribute uniquely identifies row(student id ,Jack ,major )
+
+Can be a number string 
+
+sUUROGATE KEY - that has no mapping 
+Natural Key - Has a mapping to the real world
+
+
+Foreign Key- Attibute that can store and ink us to other database table
+Primary key of another table 
+it drwas relationships between tables
+
+Composite key - key needs 2 attributes 
+2 columns each of primary key
+Together will be able to find unique item
+2 foreigh keys brough together as the primary key
+
+SQL- Structured Quey Language
+    a languague to create and manage databse using RDBMS
+    DQL,DDL,DCL,DML
+
+
+
+
+
+
+
+
+
+
